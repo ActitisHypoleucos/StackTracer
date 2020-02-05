@@ -1,0 +1,25 @@
+C:\Lavori in Classe\Corso C# 2019\LogMaker\MyLog.ApplicationLogic\bin\Debug\MyLog.ApplicationLogic.dll
+C:\Lavori in Classe\Corso C# 2019\LogMaker\MyLog.ApplicationLogic\bin\Debug\MyLog.ApplicationLogic.pdb
+C:\Lavori in Classe\Corso C# 2019\LogMaker\MyLog.ApplicationLogic\bin\Debug\MyLog.DomainLogic.dll
+C:\Lavori in Classe\Corso C# 2019\LogMaker\MyLog.ApplicationLogic\bin\Debug\MyLog.DomainLogic.pdb
+C:\Lavori in Classe\Corso C# 2019\LogMaker\MyLog.ApplicationLogic\obj\Debug\MyLog.ApplicationLogic.csprojAssemblyReference.cache
+C:\Lavori in Classe\Corso C# 2019\LogMaker\MyLog.ApplicationLogic\obj\Debug\MyLog.ApplicationLogic.csproj.CoreCompileInputs.cache
+C:\Lavori in Classe\Corso C# 2019\LogMaker\MyLog.ApplicationLogic\obj\Debug\MyLog.ApplicationLogic.csproj.CopyComplete
+C:\Lavori in Classe\Corso C# 2019\LogMaker\MyLog.ApplicationLogic\obj\Debug\MyLog.ApplicationLogic.dll
+C:\Lavori in Classe\Corso C# 2019\LogMaker\MyLog.ApplicationLogic\obj\Debug\MyLog.ApplicationLogic.pdb
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\MyLog.ApplicationLogic\bin\Debug\MyLog.ApplicationLogic.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\MyLog.ApplicationLogic\bin\Debug\MyLog.ApplicationLogic.pdb
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\MyLog.ApplicationLogic\bin\Debug\MyLog.DomainLogic.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\MyLog.ApplicationLogic\bin\Debug\MyLog.DomainLogic.pdb
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\MyLog.ApplicationLogic\obj\Debug\MyLog.ApplicationLogic.csprojAssemblyReference.cache
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\MyLog.ApplicationLogic\obj\Debug\MyLog.ApplicationLogic.csproj.CopyComplete
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\MyLog.ApplicationLogic\obj\Debug\MyLog.ApplicationLogic.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\MyLog.ApplicationLogic\obj\Debug\MyLog.ApplicationLogic.pdb
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\MyLog.ApplicationLogic\bin\Debug\MyLog.ApplicationLogic.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\MyLog.ApplicationLogic\bin\Debug\MyLog.ApplicationLogic.pdb
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\MyLog.ApplicationLogic\bin\Debug\MyLog.DomainLogic.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\MyLog.ApplicationLogic\bin\Debug\MyLog.DomainLogic.pdb
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\MyLog.ApplicationLogic\obj\Debug\MyLog.ApplicationLogic.csprojAssemblyReference.cache
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\MyLog.ApplicationLogic\obj\Debug\MyLog.ApplicationLogic.csproj.CopyComplete
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\MyLog.ApplicationLogic\obj\Debug\MyLog.ApplicationLogic.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\MyLog.ApplicationLogic\obj\Debug\MyLog.ApplicationLogic.pdb

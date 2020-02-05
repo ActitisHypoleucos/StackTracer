@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyLog.DomainLogic.DomainLogics.ComponentiLogic.ComponentiCMD" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>DomainLogics\ComponentiLogic\ComponentiCMD.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MyLog.DomainLogic.DomainLogics.ComponentiLogic.ComponentiQuery" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DomainLogics\ComponentiLogic\ComponentiQuery.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MyLog.DomainLogic.DomainLogics.EventiLogic.EventiCMD" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>DomainLogics\EventiLogic\EventiCMD.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MyLog.DomainLogic.DomainLogics.EventiLogic.EventiQuery" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>DomainLogics\EventiLogic\EventiQuery.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MyLog.DomainLogic.DomainLogics.ProfonditaLogic.ProfonditaCMD" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>DomainLogics\ProfonditaLogic\ProfonditaCMD.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MyLog.DomainLogic.DomainLogics.ProfonditaLogic.ProfonditaQuery" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAABAA=</HashCode>
+      <FileName>DomainLogics\ProfonditaLogic\ProfonditaQuery.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MyLog.DomainLogic.DomainLogics.TracciamentiLogic.TracciamentiCMD" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DomainLogics\TracciamentiLogic\TracciamentiCMD.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MyLog.DomainLogic.DomainLogics.TracciamentiLogic.TracciamentiQuery" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAACABAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>DomainLogics\TracciamentiLogic\TracciamentiQuery.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MyLog.DomainLogic.UnitOfWork" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAABAEAAgAAIAQAAAAAAAAEAAIQAABUAggAIQ=</HashCode>
+      <FileName>UnitOfWork.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MyLog.DomainLogic.Models.BaseModel" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\BaseModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLog.DomainLogic.Models.Componenti" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAACAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Models\Componenti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLog.DomainLogic.Models.Eventi" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAABAAgAAAAAAAAAAAAAAIAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Models\Eventi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLog.DomainLogic.Models.Profondita">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Profondita.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLog.DomainLogic.Models.Tracciamenti" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAABAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Tracciamenti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="MyLog.DomainLogic.Enums.Query" Collapsed="true">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAASABAAUAAAAAQAAGABAAgAAgEBAAgAAAChAA=</HashCode>
+      <FileName>Enums\Query.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="MyLog.DomainLogic.DomainLogics.ComponenteLogic.Interface.IComponentiCMD" Collapsed="true">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>DomainLogics\ComponentiLogic\Interface\IComponentiCMD.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MyLog.DomainLogic.DomainLogics.ComponenteLogic.Interface.IComponentiQuery" Collapsed="true">
+    <Position X="9.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DomainLogics\ComponentiLogic\Interface\IComponentiQuery.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MyLog.DomainLogic.DomainLogics.EventiLogic.Interface.IEventiCMD" Collapsed="true">
+    <Position X="11" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>DomainLogics\EventiLogic\Interface\IEventiCMD.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MyLog.DomainLogic.DomainLogics.EventiLogic.Interface.IEventiQuery" Collapsed="true">
+    <Position X="12.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>DomainLogics\EventiLogic\Interface\IEventiQuery.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MyLog.DomainLogic.DomainLogics.ProfonditaLogic.Interface.IProfonditaCMD" Collapsed="true">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>DomainLogics\ProfonditaLogic\Interface\IProfonditaCMD.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MyLog.DomainLogic.DomainLogics.ProfonditaLogic.Interface.IProfonditaQuery" Collapsed="true">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAABAA=</HashCode>
+      <FileName>DomainLogics\ProfonditaLogic\Interface\IProfonditaQuery.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MyLog.DomainLogic.DomainLogics.TracciamentiLogic.Interface.ITracciamentiCMD" Collapsed="true">
+    <Position X="11" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DomainLogics\TracciamentiLogic\Interface\ITracciamentiCMD.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MyLog.DomainLogic.DomainLogics.TracciamentiLogic.Interface.ITracciamentiQuery" Collapsed="true">
+    <Position X="12.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAACABAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>DomainLogics\TracciamentiLogic\Interface\ITracciamentiQuery.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MyLog.DomainLogic.IUnitOfWork" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAEAAIAAAAUAgAAIQ=</HashCode>
+      <FileName>IUnitOfWork.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,67 @@
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\bin\Debug\UTLog.dll
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\bin\Debug\UTLog.pdb
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\bin\Debug\MyLog.ApplicationLogic.dll
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\bin\Debug\StructureMap.dll
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\bin\Debug\MyLog.DomainLogic.dll
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\bin\Debug\MyLog.ApplicationLogic.pdb
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\bin\Debug\StructureMap.xml
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\bin\Debug\MyLog.DomainLogic.pdb
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\obj\Debug\UTLog.csprojAssemblyReference.cache
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\obj\Debug\UTLog.csproj.CoreCompileInputs.cache
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\obj\Debug\UTLog.csproj.CopyComplete
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\obj\Debug\UTLog.dll
+C:\Lavori in Classe\Corso C# 2019\LogMaker\UTLog\obj\Debug\UTLog.pdb
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\bin\Debug\UTLog.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\bin\Debug\UTLog.pdb
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\bin\Debug\MyLog.ApplicationLogic.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\bin\Debug\StructureMap.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\bin\Debug\MyLog.DomainLogic.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\bin\Debug\MyLog.ApplicationLogic.pdb
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\bin\Debug\StructureMap.xml
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\bin\Debug\MyLog.DomainLogic.pdb
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\obj\Debug\UTLog.csprojAssemblyReference.cache
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\obj\Debug\UTLog.csproj.CopyComplete
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\obj\Debug\UTLog.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker - Copia\UTLog\obj\Debug\UTLog.pdb
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\bin\Debug\UTLog.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\bin\Debug\UTLog.pdb
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\bin\Debug\MyLog.ApplicationLogic.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\bin\Debug\StructureMap.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\bin\Debug\MyLog.DomainLogic.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\bin\Debug\MyLog.ApplicationLogic.pdb
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\bin\Debug\StructureMap.xml
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\bin\Debug\MyLog.DomainLogic.pdb
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\obj\Debug\UTLog.csprojAssemblyReference.cache
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\obj\Debug\UTLog.csproj.CopyComplete
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\obj\Debug\UTLog.dll
+C:\Users\Aula2PC10\Informatica\Progetti\StackTracer\Soluzioni\LogMaker\UTLog\obj\Debug\UTLog.pdb
